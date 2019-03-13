@@ -6,7 +6,7 @@ import { ApolloProvider } from 'react-apollo';
 
 // Apollo Client Setup 
 const client = new ApolloClient({
-  uri: 'https://api-uswest.graphcms.com/v1/cjt6m260h2twr01ba3rno9ipc/master';
+  uri: 'https://api-uswest.graphcms.com/v1/cjt6m260h2twr01ba3rno9ipc/master'
 })
 
 class App extends Component {
