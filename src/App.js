@@ -6,7 +6,9 @@ import { ApolloProvider } from 'react-apollo';
 
 // Apollo Client Setup 
 const client = new ApolloClient({
-  uri: 'https://api-uswest.graphcms.com/v1/cjt6m260h2twr01ba3rno9ipc/master'
+  // Add your GraphQL API below for e.g :
+  // uri: 'https://consumegraphql.io/graphql'
+  uri: ''
 })
 
 class App extends Component {
@@ -15,18 +17,10 @@ class App extends Component {
       <ApolloProvider client={client}>
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+            <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+          A Minimalistic React CRA Boilerplate Supercharged with Apollo Client 2.5 ready to consume any GraphQL API
           </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
         </header>
         </div>
         </ApolloProvider>
