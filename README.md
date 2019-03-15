@@ -1,5 +1,7 @@
 # Consume GraphQL 
 
+🚀A Minimalistic React CRA Boilerplate Supercharged with Apollo Client 2.5 ready to consume any GraphQL API ✡️
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
