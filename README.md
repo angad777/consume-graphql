@@ -7,7 +7,7 @@
 # Frontend Tech Stack
 
 1) React CRA
-2) Apollo Client 
+2) Apollo Client v2.5
 
 # Try it on CodeSandBox
 
