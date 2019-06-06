@@ -19,7 +19,7 @@ class App extends Component {
         <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
           <p>
-          🚀A Minimalistic React CRA Boilerplate Supercharged with Apollo Client 2.5 ready to consume any GraphQL API ✡️
+      Minimalistic React / Apollo / GraphQL Boilerplate 🚀
           </p>
         </header>
         </div>
