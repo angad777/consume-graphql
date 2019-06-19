@@ -2,6 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/424756a2-c9f2-4921-b11c-867596aedcf9/deploy-status)](https://consume-graphql.netlify.com/)
 
+![](consumegraphql.png)
+
 🚀A Minimalistic React CRA Boilerplate Supercharged with Apollo Client 2.5 ready to consume any GraphQL API ✡️
 
 ## Getting Started 
