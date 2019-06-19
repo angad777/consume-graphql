@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
-import logo from './logo.svg'
-import './App.css'
 import ApolloClient from 'apollo-boost'
 import { ApolloProvider } from 'react-apollo'
+import logo from './logo.svg'
+import carbon from './carbon.svg'
+import './App.css'
 
 // Apollo Client Setup
 const client = new ApolloClient({
@@ -24,8 +25,17 @@ class App extends Component {
 						/>
 						<p>
 							Minimalistic React / Apollo / GraphQL
-							Boilerplate 🚀
+							Boilerplate
 						</p>
+
+						<img
+							src={carbon}
+							className=""
+							width="700px"
+							alt="code-snippet"
+						/>
+
+
 					</header>
 				</div>
 			</ApolloProvider>
