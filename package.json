@@ -9,7 +9,7 @@
     "react-apollo": "^2.5.8",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
-    "snyk": "^1.189.0"
+    "snyk": "^1.192.0"
   },
   "scripts": {
     "start": "react-scripts start",
