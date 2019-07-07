@@ -6,7 +6,7 @@
 
 🚀A Minimalistic React CRA Boilerplate Supercharged with Apollo Client 2.5 ready to consume any GraphQL API ✡️
 
-## Getting Started
+# Getting Started
 
 Clone this repo and add your companies / projects graphql endpoint to quickly prototype web apps / mobile apps.
 
