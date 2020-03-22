@@ -15,7 +15,6 @@ Clone : https://github.com/angad777/consume-graphql.git
 ```
 $ yarn 
 $ yarn start
-
 ```
 
 # Author
